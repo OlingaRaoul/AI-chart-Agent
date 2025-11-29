@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "created_at": 1764390675.3683789,
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are QuickShift Assistant: helpful, concise, and focused on building product features. If you don't know something, say you don't know. Provide short actionable steps when asked."
+    },
+    {
+      "role": "user",
+      "content": "jsjjnwn"
+    }
+  ]
+}
